@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="633548d7-aaa9-4a23-bb01-061db507feb6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VjVbGVJCwfyDz2nnlQThU0FwE5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter7.polymorphism" />
+      <recent name="array" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CarTest (1)">
+    <configuration name="AnimalTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.polymorphism.AnimalTest" />
+      <module name="JavaStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookArrayTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.BookArrayTest" />
+      <module name="JavaStudy.main" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.Car.CarTest" />
+      <module name="JavaStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter8.Car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.templetex.CarTest" />
+      <module name="JavaStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter8.templetex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter7.homework.CustomerTest" />
+      <module name="JavaStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter7.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloJava" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloJava" />
+      <module name="JavaStudy.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainBoardPlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter8.game.MainBoardPlay" />
+      <module name="JavaStudy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter8.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BookArrayTest" />
+      <item itemvalue="Application.HelloJava" />
+      <item itemvalue="Application.AnimalTest" />
+      <item itemvalue="Application.CustomerTest (1)" />
+      <item itemvalue="Application.CarTest" />
+      <item itemvalue="Application.MainBoardPlay" />
+      <item itemvalue="Application.CarTest (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CarTest (1)" />
+        <item itemvalue="Application.MainBoardPlay" />
+        <item itemvalue="Application.CarTest" />
+        <item itemvalue="Application.CustomerTest (1)" />
+        <item itemvalue="Application.AnimalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="633548d7-aaa9-4a23-bb01-061db507feb6" name="Default Changelist" comment="" />
+      <created>1577766560746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577766560746</updated>
+      <workItem from="1577766565046" duration="3316000" />
+      <workItem from="1578026622054" duration="8874000" />
+      <workItem from="1578054471287" duration="901000" />
+      <workItem from="1578141449158" duration="1771000" />
+      <workItem from="1578284410389" duration="307000" />
+      <workItem from="1578285967315" duration="2936000" />
+      <workItem from="1578326862256" duration="3343000" />
+      <workItem from="1578372602604" duration="1121000" />
+      <workItem from="1578389354456" duration="4261000" />
+      <workItem from="1578403526687" duration="1681000" />
+      <workItem from="1578416354212" duration="2818000" />
+      <workItem from="1578466860444" duration="5243000" />
+      <workItem from="1578472932113" duration="173000" />
+      <workItem from="1578473119352" duration="593000" />
+      <workItem from="1578473731179" duration="6817000" />
+      <workItem from="1578549835630" duration="631000" />
+      <workItem from="1578552844784" duration="4841000" />
+      <workItem from="1578572811383" duration="9385000" />
+      <workItem from="1578634480517" duration="864000" />
+      <workItem from="1578742002287" duration="4904000" />
+      <workItem from="1578747002970" duration="2381000" />
+      <workItem from="1578911848883" duration="20000" />
+      <workItem from="1578911902720" duration="717000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="82" key="#BookArrayTest" timestamp="1578472787581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="82" key="#BookArrayTest/0.0.1536.824@0.0.1536.824" timestamp="1578472787581" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1578467185318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578467185318" />
+    <state x="447" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578473368152">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578473368152" />
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser" timestamp="1578748800199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="97" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578748800199" />
+    <state x="424" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578742067419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="338" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1578742067419" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578580569988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578580569988" />
+    <state x="812" y="179" key="FileChooserDialogImpl" timestamp="1578749398059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="812" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578749398059" />
+    <state width="1493" height="379" key="GridCell.Tab.0.bottom" timestamp="1578912713087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578912713087" />
+    <state width="1493" height="379" key="GridCell.Tab.0.center" timestamp="1578912713087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578912713087" />
+    <state width="1493" height="379" key="GridCell.Tab.0.left" timestamp="1578912713083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578912713083" />
+    <state width="1493" height="379" key="GridCell.Tab.0.right" timestamp="1578912713087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="379" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578912713087" />
+    <state x="541" y="75" key="SettingsEditor" timestamp="1578912621394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="541" y="75" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578912621394" />
+    <state x="843" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1578911902247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="843" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578911902246" />
+    <state x="180" y="14" key="new project wizard" timestamp="1578912753876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="180" y="14" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1578912753876" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1578573465755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578573465755" />
+  </component>
+</project>
